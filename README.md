@@ -1,2 +1,2 @@
-# BlazerExperiment
-Placeholder repo to experiment with Blazer
+# BlazorExperiment
+Placeholder repo to experiment with Blazor
